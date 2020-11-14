@@ -1,0 +1,16 @@
+.btn-cart {
+	margin: 20px;
+}
+
+.igm-product {
+	width: 180px;
+	float: left;
+	margin-right: 20px;
+}
+.clear-fix::after {
+	content: "";
+	display: block;
+	clear: both;
+	/* height: 0px; */
+	/* visibility: hidden; */
+}
